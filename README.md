@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Juliana 👋
 
-<!--
-**ju2pter/ju2pter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student focused on infrastructure, information security and data protection.
 
-Here are some ideas to get you started:
+### 🔐 Areas of interest
+- Information Security & LGPD compliance
+- Network fundamentals & VPN concepts
+- Log monitoring & anomaly detection
+- Data organization and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data & Analysis Skills
+- Excel for data organization and reporting
+- Basic data analysis for operational insights
+- Monitoring logs and identifying patterns
+- Supporting technical reports and documentation
+
+### 🛠 Currently developing
+- Linux environments (Ubuntu, Debian, Kali)
+- Network security fundamentals
+- Python for automation & monitoring
+- Security event analysis basics
+
+📌 Check my repositories below to see my projects.
