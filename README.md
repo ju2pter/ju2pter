@@ -30,10 +30,9 @@ Cybersecurity student focused on infrastructure, information security and data p
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ju2pter&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ju2pter&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ju2pter&layout=compact)
 
