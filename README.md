@@ -1,4 +1,5 @@
 ## Hi, I'm Juliana 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Future+Python+Developer;Linux+%26+Network+Enthusiast;Learning+Every+Day)
 
 Cybersecurity student focused on infrastructure, information security and data protection.
 
