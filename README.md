@@ -4,23 +4,35 @@
 
 Cybersecurity student focused on infrastructure, information security and data protection.
 
-### 🔐 Areas of interest
-- Information Security & LGPD compliance
-- Network fundamentals & VPN concepts
-- Log monitoring & anomaly detection
-- Data organization and reporting
+🔐 Cybersecurity Student | Network Security Enthusiast
 
-### 📊 Data & Analysis Skills
-- Excel for data organization and reporting
-- Basic data analysis for operational insights
-- Monitoring logs and identifying patterns
-- Supporting technical reports and documentation
+Passionate about cybersecurity, networking and Linux systems. Currently building hands-on experience through practical labs focused on network security, Linux administration, Python automation and offensive security fundamentals.
 
-### 🛠 Currently developing
-- Linux environments (Ubuntu, Debian, Kali)
-- Network security fundamentals
-- Python for automation & monitoring
-- Security event analysis basics
+🌐 Core Skills
+
+Network Fundamentals (TCP/IP, Routing, Switching)
+
+Linux Administration (Parrot OS, Ubuntu, Debian)
+
+Python Scripting & Automation
+
+Security Monitoring & Analysis
+
+Virtualization & Lab Environments
+
+🛠 Current Learning Path
+
+CCNA Networking
+
+Offensive Security Fundamentals
+
+Penetration Testing Methodologies
+
+Web Security Basics
+
+Security Operations (SOC) Concepts
+
+Linux Security & Hardening
 
 ## 🛠 Technologies & Tools
 
